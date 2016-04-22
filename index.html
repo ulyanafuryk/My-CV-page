@@ -3,35 +3,40 @@
     <head>
         <meta charset="utf-8">
         <title> my CV page </title>
-        <link href="styles.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" media="(min-width: 800px)" href="layout-lg.css">
+        <link rel="stylesheet" media="(min-width: 600px) and (max-width: 799px)" href="layout-mg.css">
+        <link rel="stylesheet" media="(max-width: 599px)" href="layout-sm.css">
+        
     </head>
     <body>
-        <nav>
-        <a href="/home/">Home</a>
-        <a href="/education/">Education</a>
-        <a href="/work/">Work expеrience</a>
-        <a href="/social work/">Social work</a>
-        <a href="/my most popular projects">My most popular projects</a>
-        <a href="/documents which may help you/">Documents which may help you</a>
-        <a href="/little about me/">Little about me</a>
-        <a href="/contacts/">Contacts</a>
-        </nav>
-          
-          <article>
-          <header>
+        
+    <header>
           <h1 id="home">Uliana Furyk</h1>
-         
-          <img src="face.png" alt="Face grafic">
-          
-          <p><em>Date of birth: on October, 5, 1985</em>
+    </header>
+    <section>
+        <nav>
+            <ul class="toolbar">
+              <li><a href="#">Home</a></li>
+              <li><a href="#">Education</a></li>
+              <li><a href="#">Work expеrience</a></li>
+              <li><a href="#">Social work</a></li>
+              <li><a href="#">My most popular projects</a></li>
+              <li><a href="#">Documents which may help you</a></li>
+              <li><a href="#">Little about me</a></li>
+              <li><a href="#">Contacts</a></li>  
+            </ul>
+        </nav>
+    </section>
+    
+          <img src="face.png" alt="Face grafic" height="100" width="300"/>
+          <p><font><em> Date of birth: on October, 5, 1985</em>
           <br><em>Address : 81130, Ukraine, Sokiljnyky</em>
           <br><em>Shevchenko street, 38</em>
           <br><em>tel.: 063  560 01 73</em>
-          <br><em>e-mail: ulyana.kutsir@gmail.com</em>
-          </p>
-          </header>
-          
-          <div id="education">
+          <br><em>e-mail: ulyana.kutsir@gmail.com</em></font></p>
+      
+          <div class="education"></div>
           <h2>Education</h2>
           <p><b>09/2007-06/2008 - I. Franko National University of Lviv, Law faculty, LLM</b>
           <br><b>06/2008 - the master's degree of jurisprudence;</b>
@@ -40,9 +45,9 @@
           <br>2003 - advanced study: «Features of criminal responsibility of minor», a scientific curator - candidate of legal sciences Burdin V.;
           <br>2007 - advanced study: «Regional guarantees of minor's labour protection», scientific curator - candidate of legal sciences Kozak Z.
           </p>
-          </div>
           
-          <div id="work expirience">
+          
+          <div class="work expirience"></div>
           <h2>Work expirience</h2>
           <p><b>06/2014 – 11/2015</b> - lawyer in corporate, civil, labor, tax, employment cases in Public Company “Zahidenergoavtomatyka”:
               <ul type="circle">
@@ -72,9 +77,8 @@
               <li><em>drafting documents for the feasance of notarial action</em></li>
               <li><em>assisting in preparing drafts of agreements, statements, warrants, act.</em></li>
               </ul></p>
-              </div>
               
-          <div id="social work">
+          <div class="social work"></div>
           <h2>Social work</h2>
           <p><b>09/2005 – 06/2006</b> –  member of public organization «Motherland is young» in  Lviv;
           <br><b>09/2006 – 06/2008</b> – participant of theatrical group of I. Franko National University of Lviv;
@@ -82,12 +86,10 @@
           <br><b>10/2007 until now – member of public organization “Christian - Democratic Union of young People”</b>
           <br><b>01/2009 until now – member of public organization «Elucidative union», one of the founderes and Chairman of public organization «Elucidative union».</b>
           </p>
-          </div>
           
-          <div id="my most popular projects">
-          <img src="mountains.png" alt="Mountains grafic">
           
-          <h2 >My most popular projects</h2>
+          
+          <h2><div class="my most popular projects"></div>My most popular projects</h2>
           <p><ul type="circle">                                                                     
               <li><b>Corporations</b></li>
               <li><b>Legal advisory</b></li>
@@ -96,13 +98,12 @@
               <li><b>Representation in public authorities</b></li>
               <li><b>Litigation</b></li>
               </ul></p>
-              </div>
               
-          <div id="documents which may help you">
-          <h2 >Documents which may help you</h2>
+          <div class="documents which may help you">
+          <h2>Documents which may help you</h2>
           </div>
               
-          <div id="little about me">
+          <div class="little about me"></div>
           <h2>Little about me:</h2>
           <p>I was born in the village of Sokilnyky not far from Lviv.
           <br>My first social work began with the organization
@@ -114,9 +115,8 @@
           <br>and management as it is the future of our society! And to become 
           <br>So, have a nice nime and contact for legal aid:)
           </p>
-          </div>
           
-          <div id="contacts">
+          <div class="contacts"></div>
           <h2>Contacts</h2>
           <p>My number is: <b>+380635600173</b>
           <br>You can also write me on my email:<b>ulyana.kutsir@gmail.com</b>
@@ -135,8 +135,7 @@
             <br>
             <input type="submit">
            </form>
-           </div>
-           
+          
            <footer>
            <p>© 2016. All Rights Reserved</p>
            </footer>

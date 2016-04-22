@@ -11,10 +11,8 @@ background-repeat: no-repeat;
 }
 .toolbar li{
 display: inline;
-background-color: #CBFF45;
+background-color: #EEE;
 border: 1px solid;
-border-color: #38E7E8;
-margin-left: auto;
-margin-right: auto
+border-color: #F3F3F3 #BBB #BBB #F3F3F3;
 padding: .30em
 }
