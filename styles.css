@@ -9,5 +9,12 @@ background-image: url(./city.jpg);
 background-position: right;
 background-repeat: no-repeat;
 }
-
-
+.toolbar li{
+display: inline;
+background-color: #CBFF45;
+border: 1px solid;
+border-color: #38E7E8;
+margin-left: auto;
+margin-right: auto
+padding: .30em
+}
