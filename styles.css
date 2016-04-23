@@ -46,8 +46,8 @@ background-repeat: no-repeat;
 
 .data {
     float: left;
-    width: 200px;
-    heigh: 100px;
+    width: 50%;
+    heigh: 50%;
     margin: 1em;
     top: 20px;
 }
