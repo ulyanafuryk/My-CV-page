@@ -14,6 +14,7 @@ body {
 background-color: #8ab22e;
 font-family: Artifica;
 background-image: url(./mountains.png);
+top: 100px;
 background-position: right;
 background-repeat: no-repeat;
 }
