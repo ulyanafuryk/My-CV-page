@@ -55,10 +55,9 @@ footer {
   width: 100%;
 } 
 
-div class {
-    padding: 40px 40px;
-    background-color: #e4562e;
-    width: 300px;
-    color: #604a1d;
-    font-size: x-large;
-    }
+.education {
+  padding: 40px 40px;
+  background-color: #e4562e;
+  width: 300px;
+  color: #604a1d;
+}
