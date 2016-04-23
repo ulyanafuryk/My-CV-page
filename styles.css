@@ -31,11 +31,11 @@ padding: .30em
     width: 200px;
     heigh: 100px;
     margin: 1em;
+    top: 20px;
 }
 
 article {
     clear: left;
-    top: 100px;
 }
 
 
