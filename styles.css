@@ -14,9 +14,9 @@ padding: .10em
 header {
 position: absolute;
 display: inline-block;
-padding: 40px 40px;
+padding: 60px60px;
 background-color: #81ada0;
-width: 300px;
+width: 600px;
 color: #272a0f;
 font-size: xx-large;
 border-radius: 30px;
@@ -26,7 +26,7 @@ margin-top: 10px;
 } 
 
 body {
-background-color: #c0421a;
+background-color: #a0d5d9;
 font-family: Artifica;
 font-size: 18px;
 background-image: url(./mountains.png);
@@ -68,7 +68,6 @@ footer {
 } 
 
 div {
-  position: absolute;
   padding: 40px 40px;
   background-color: #fe777d;
   background: linear-gradient(wite #fe777d);
