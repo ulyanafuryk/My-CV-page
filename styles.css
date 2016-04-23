@@ -2,20 +2,38 @@
   margin: 0;
   padding: 0;
 }
+header {
+position: relative;
+} 
+section {
+  /* position is static by default */
+  margin-left: 200px;
+}
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color:#c4d3da;
+  width: 100%;
+}
 body {
-background-color: #efece1;
+background-color: #e9e9e9;
 font-family: Artifica;
-background-image: url(./tabel with flowers.jpg);
+background-image: url(./tablewithflowers.jpg);
 background-position: right;
 background-repeat: no-repeat;
+margin-bottom: 120px;
 }
 .toolbar li{
 display: inline;
-background-color: #a5a9b7;
+background-color: #ffd586;
 border: 1px solid;
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;
 padding: .30em
 }
 img {
     float: left;
+    margin: 5em;
 }
+ 
