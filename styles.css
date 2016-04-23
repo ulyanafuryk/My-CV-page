@@ -55,14 +55,13 @@ footer {
   width: 100%;
 } 
 
-div {
+div class {
     padding: 40px 40px;
     background-color: #e4562e;
     width: 400px;
     color: #604a1d;
     font-size: xx-large;
     border-radius: 25px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-right: 1em;
     margin-top: 100px;
 }
