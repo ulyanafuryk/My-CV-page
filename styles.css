@@ -5,8 +5,8 @@
 body {
 background-color: #efece1;
 font-family: Artifica;
-background-image: url(./flowers.jpg);
-background-attachment: scroll;
+background-image: url(./tabel with flowers.jpg);
+background-position: right;
 background-repeat: no-repeat;
 }
 .toolbar li{
