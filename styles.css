@@ -1,6 +1,16 @@
 * {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
+}
+body {
+max-width: 1200px;
+background-color: #928da3;
+font-family: Artifica;
+font-size: 18px;
+background-image: url(./mountains.png);
+color: #272a0f;
+background-position: bottom;
+background-repeat: no-repeat;
 }
 
 .toolbar li{
@@ -24,16 +34,6 @@ margin-left: auto;
 margin-right: auto;
 margin-top: 10px;
 } 
-
-body {
-background-color: #928da3;
-font-family: Artifica;
-font-size: 18px;
-background-image: url(./mountains.png);
-color: #272a0f;
-background-position: bottom;
-background-repeat: no-repeat;
-}
 
 
 .data {
