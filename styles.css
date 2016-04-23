@@ -20,7 +20,7 @@ background-repeat: no-repeat;
 
 .toolbar li{
 display: inline;
-background-color: #ffd586;
+background-color: #90b081;
 border: 1px solid;
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;
 padding: .30em
@@ -36,6 +36,7 @@ padding: .30em
 img {
     float: left;
     margin: 2em;
+
 }
 footer {
   position: fixed;
