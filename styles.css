@@ -13,10 +13,6 @@ margin-left: auto;
 margin-right: auto;
 margin-top: 10px;
 } 
-section {
-  /* position is static by default */
-  margin-left: 10px;
-}
 
 body {
 background-color: #c8cba5;
