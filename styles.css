@@ -12,12 +12,13 @@ padding: .10em
 }
 
 header {
+display: inline-block;
 padding: 40px 40px;
-background-color: #fecdc7;
+background-color: #81ada0;
 width: 300px;
 color: #272a0f;
 font-size: xx-large;
-border-radius: 25px;
+border-radius: 30px;
 margin-left: auto;
 margin-right: auto;
 margin-top: 10px;
@@ -26,10 +27,10 @@ margin-top: 10px;
 body {
 background-color: #c8cba5;
 font-family: Artifica;
+font-size: 18px;
 background-image: url(./mountains.png);
-margin-top: 200px;
 color: #272a0f;
-background-position: right;
+background-position: bottom;
 background-repeat: no-repeat;
 }
 
@@ -44,9 +45,12 @@ background-repeat: no-repeat;
 
 article {
     clear: left;
+    
 }
 
-
+article, header, footer, main, nav {
+  display: block;
+}
 
 img {
     float: left;
