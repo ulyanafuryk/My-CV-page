@@ -7,6 +7,7 @@ background-color: #efece1;
 font-family: Artifica;
 background-image: url(./flowers.jpg);
 background-position: right;
+background-size: <percentage>
 background-repeat: no-repeat;
 }
 .toolbar li{
