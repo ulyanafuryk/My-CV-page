@@ -33,7 +33,7 @@ display: inline;
 background-color: #e6eee3;
 border: 1px solid;
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;
-padding: .30em
+padding: .10em
 }
 
 .data {
@@ -67,6 +67,7 @@ footer {
 div {
   padding: 40px 40px;
   background-color: #fe777d;
+  background: linear-gradient(wite #fe777d);
   width: 300px;
   color: #604a1d;
   font-size: medium;
