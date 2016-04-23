@@ -2,6 +2,25 @@
   margin: 0;
   padding: 0;
 }
+
+nav {
+  float:left;
+  height:400px;
+  width:10%;
+  overflow:hidden;
+  font-family:Bookman old style;
+  text-align:center;
+  text-decoration:none;
+}
+
+.toolbar li{
+display: inline;
+background-color: #e6eee3;
+border: 1px solid;
+border-color: #F3F3F3 #BBB #BBB #F3F3F3;
+padding: .10em
+}
+
 header {
 padding: 40px 40px;
 background-color: #fecdc7;
@@ -24,13 +43,6 @@ background-position: right;
 background-repeat: no-repeat;
 }
 
-.toolbar li{
-display: inline;
-background-color: #e6eee3;
-border: 1px solid;
-border-color: #F3F3F3 #BBB #BBB #F3F3F3;
-padding: .10em
-}
 
 .data {
     float: left;
