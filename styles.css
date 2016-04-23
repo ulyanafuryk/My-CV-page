@@ -4,8 +4,8 @@
 }
 header {
 padding: 40px 40px;
-background-color: #fe777d;
-width: 400px;
+background-color: #fecdc7;
+width: 100px;
 color: #272a0f;
 font-size: xx-large;
 border-radius: 10px;
@@ -19,7 +19,7 @@ section {
 }
 
 body {
-background-color: #8ab22e;
+background-color: #c8cba5;
 font-family: Artifica;
 background-image: url(./mountains.png);
 margin-top: 200px;
@@ -64,9 +64,9 @@ footer {
   width: 100%;
 } 
 
-.education {
+div {
   padding: 40px 40px;
-  background-color: #e4562e;
+  background-color: #fe777d;
   width: 300px;
   color: #604a1d;
   font-size: medium;
