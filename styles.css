@@ -36,6 +36,10 @@ margin-right: auto;
 margin-top: 10px;
 } 
 
+#main {
+  max-width: 600px;
+  margin: 0 auto;
+}
 
 .data {
     float: left;
