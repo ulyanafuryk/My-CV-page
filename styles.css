@@ -38,16 +38,16 @@ ul {
 .toolbar li{
 display: inline;
 color: #272a0f;
-background-color: #e6eee3;
+background-color: #8B3E2F;
 border: 1px solid;
-border-color: #F3F3F3 #BBB #BBB #F3F3F3;
+border-color: #8B3E2F;
 font-size: xx-large;
 border-radius: 30px;
 box-shadow: 10px 10px 5px #677077;
 margin-left: auto;
 margin-right: auto;
 margin-top: 10px;
-padding: .10em
+padding: .4em
 }
 
 header {
