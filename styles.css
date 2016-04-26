@@ -46,7 +46,7 @@ img {position:relative;
 
 div {
   position: relative;
-  padding: 40px 40px;
+  padding: 0, 0, 40px, 0;
   background-color: #fe777d;
   background: linear-gradient(wite #fe777d);
   width: 300px;
@@ -64,10 +64,10 @@ div {
 article {
   position: relative;
   margin: auto;
-  padding: 20px, 20px;
+  padding: 0, 0, 20px, 0px;
   background-color: #B9F73E;
   background: linear-gradient(wite #fe777d);
-  background-image: url(".img_withflowers.jpg");
+  background-image: url(withflowers.jpg);
   box-shadow: 10px 10px 5px #677077;
   background-size: 80px 60px;
   background-repeat: no-repeat;
