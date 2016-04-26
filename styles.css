@@ -33,7 +33,6 @@ background-repeat: no-repeat;
 header {
 position: relative;
 background-color: #8B3A3A;
-background-image: url(./tablewithflowers.png);
 color: #272a0f;
 font-size: xx-large;
 border-radius: 50px;
@@ -73,6 +72,7 @@ article {
   position: relative;
   background-color: #B9F73E;
   box-shadow: 10px 10px 5px #677077;
+  background-image: url(./withflowers.png);
 }
 footer {
   position: relative;
