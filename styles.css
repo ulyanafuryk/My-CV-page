@@ -62,8 +62,14 @@ article {
   background: url(./img_withflowers.jpg);
   background-size: 80px 60px;
   background-repeat: no-repeat;
-  
 }
+form {
+  background: url(img_withflowers.jpg);
+  background-size: 80px 60px;
+  background-repeat: no-repeat;
+}
+
+
 footer {
   position: relative;
   bottom: 0;
