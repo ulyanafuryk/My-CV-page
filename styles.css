@@ -16,7 +16,8 @@ background-repeat: no-repeat;
 }
 
 .toolbar {
-  position: relative
+  position: relative;
+  background-image: url(./tablewithflowers.png);
   display: inline;
   color: #272a0f;
   background-color: #8B3E2F;
@@ -45,13 +46,13 @@ margin-top: 30px;
 
 
 img {
-    float: right
+    float: right;
     margin: 4em;
     width: 500px;
 }
 
 div {
-  position: relative
+  position: relative;
   padding: 40px 40px;
   background-color: #fe777d;
   background: linear-gradient(wite #fe777d);
