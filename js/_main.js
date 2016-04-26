@@ -6,4 +6,4 @@
             //console.log(data.curTop);
         }
     });
-} )( jQuery );
+} )(global.$ (jQuery));
