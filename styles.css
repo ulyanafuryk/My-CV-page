@@ -49,6 +49,7 @@ margin-top: 30px;
 }
 
 img {
+    position:relative;
     float: right;
     margin: 4em;
     width: 500px;
