@@ -11,9 +11,6 @@ font-family: 'Open Sans', serif;
 color: #272a0f;
 background-position: center;
 background-repeat: no-repeat;
-background: url(img_withflowers.jpg);
-background-size: 80px 60px;
-background-repeat: no-repeat;
 }
 
 nav {
@@ -36,9 +33,6 @@ box-shadow: 10px 10px 5px #677077;
 margin-left: auto;
 margin-right: auto;
 margin-top: 30px;
-background: url(img_withflowers.jpg);
-background-size: 80px 60px;
-background-repeat: no-repeat;
 } 
 
 img {position:relative;
