@@ -59,8 +59,8 @@ div {
 article {
   position: relative;
   background-color: #B9F73E;
-  box-shadow: 10px 10px 5px #677077;
   background-image: url(.img/withflowers.jpg);
+  box-shadow: 10px 10px 5px #677077;
   background-size: 80px 60px;
   background-repeat: no-repeat;
 }  
