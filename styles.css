@@ -16,6 +16,7 @@ background-repeat: no-repeat;
 }
 
 .toolbar {
+  position: relative
   display: inline;
   color: #272a0f;
   background-color: #8B3E2F;
@@ -31,7 +32,7 @@ background-repeat: no-repeat;
 }
 
 header {
-position: absolute;
+position: relative;
 background-color: #8B3A3A;
 color: #272a0f;
 font-size: xx-large;
@@ -50,7 +51,7 @@ img {
 }
 
 div {
-  position: absolute
+  position: relative
   padding: 40px 40px;
   background-color: #fe777d;
   background: linear-gradient(wite #fe777d);
