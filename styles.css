@@ -18,6 +18,9 @@ nav {
   margin: 0 auto;
   padding: 20px 0;
   overflow: hidden;
+  background: url(img_withflowers.jpg);
+  background-size: 80px 60px;
+  background-repeat: no-repeat;
 }
 
 header {
