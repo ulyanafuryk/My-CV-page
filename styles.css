@@ -31,7 +31,13 @@ margin-left: auto;
 margin-right: auto;
 margin-top: 30px;
 } 
+#education {
+    background: hsl(207, 38%, 47%);
+}
 
+#work_experience {
+    background: hsla(207, 38%, 47%, .8);
+}
 
 img {position:relative;
 }
