@@ -64,14 +64,19 @@ article {
   position: relative;
   margin: auto;
   padding: 0, 0, 20px, 0px;
-  background-color: #B9F73E;
-  background: linear-gradient(wite #fe777d);
   background-image: url(withflowers.jpg);
+  background: linear-gradient(wite #fe777d);
   box-shadow: 10px 10px 5px #677077;
   background-size: 80px 60px;
   background-repeat: no-repeat;
 }  
+#face2 {
+  background-image: url(city.jpg);
+}
 
+#face3 {
+  background-image: url(portrait.png);
+}
 footer {
   position: relative;
   bottom: 0;
