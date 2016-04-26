@@ -5,7 +5,7 @@
 
 body {
 width: normal;
-background-color: #928da3;
+background-color: #CD6839;
 font-family: Artifica;
 font-size: 18px;
 background-image: url(./mountains.png);
@@ -14,21 +14,22 @@ background-position: bottom;
 background-repeat: no-repeat;
 }
 h1 {
-  color: #8B3E2F
+  color: #8B3E2F;
   font-size:18px;
   }
 h2 {
   color: #CD8162; 
-  font-size:16px
+  font-size:16px;
   }
 p {
   color: #8B2323; 
-  font-size:14px
+  font-size:14px;
   }
 
 
 .toolbar li{
 display: inline;
+color: #272a0f;
 background-color: #e6eee3;
 border: 1px solid;
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;
@@ -44,7 +45,7 @@ padding: .10em
 header {
 position: absolute;
 display: inline-block;
-background-color: #d8cecc;
+background-color: #FF7256;
 width: 600px;
 color: #272a0f;
 font-size: xx-large;
@@ -68,7 +69,7 @@ margin-top: 10px;
     top: 20px;
 }
 
-article, header, footer, main, nav {
+article, header, footer, main, div, nav {
   display: block;
 }
 
