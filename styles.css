@@ -44,6 +44,9 @@ margin-right: auto;
 margin-top: 30px;
 } 
 
+.data {
+  float: left;
+}
 
 img {
     float: right;
