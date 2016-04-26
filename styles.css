@@ -13,6 +13,11 @@ color: #272a0f;
 background-position: bottom;
 background-repeat: no-repeat;
 }
+nav {
+  position: absolute;
+  display: inline-block;
+}
+
 h1 {
   color: #8B3E2F;
   font-size:40px;
@@ -26,9 +31,6 @@ p {
   font-size:30px;
   }
 
-.amo {
-  
-}
 
 .toolbar li{
 display: inline;
@@ -49,20 +51,16 @@ header {
 position: absolute;
 display: inline-block;
 background-color: #8B3A3A;
-width: 600px;
+max-width: 600px;
 color: #272a0f;
 font-size: xx-large;
-border-radius: 30px;
+border-radius: 50px;
 box-shadow: 10px 10px 5px #677077;
 margin-left: auto;
 margin-right: auto;
-margin-top: 10px;
+margin-top: 30px;
 } 
 
-#main {
-  max-width: 600px;
-  margin: 0 auto;
-}
 
 .data {
     float: left;
@@ -72,13 +70,13 @@ margin-top: 10px;
     top: 20px;
 }
 
-article, header, footer, main, div, nav {
+article, header, footer, div, nav {
   display: block;
 }
 
 img {
     float: left;
-    margin: 2em;
+    margin: 4em;
     width: 500px;
 
 }
