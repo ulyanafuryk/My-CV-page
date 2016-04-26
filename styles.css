@@ -8,7 +8,7 @@ min-width: 600px;
 background-color: #CD9B9B;
 font-family: 'Open Sans', serif;
 color: #272a0f;
-background-image: url(./meeting.png);
+background-image: url(.img/meeting.png);
 background-position: center;
 background-repeat: no-repeat;
 }
@@ -18,7 +18,7 @@ nav {
   margin: 0 auto;
   padding: 20px 0;
   overflow: hidden;
-  background: url(withflowers.jpg);
+  background: url(.img/withflowers.jpg);
   background-size: 80px 60px;
   background-repeat: no-repeat;
 }
@@ -32,7 +32,7 @@ box-shadow: 10px 10px 5px #677077;
 margin-left: auto;
 margin-right: auto;
 margin-top: 30px;
-background: url(img_withflowers.jpg);
+background: url(.img/withflowers.jpg);
 background-size: 80px 60px;
 } 
 
@@ -52,7 +52,7 @@ div {
   margin-left: auto;
   margin-right: auto;
   margin-top: 100px;
-  background: url(./withflowers.jpg);
+  background: url(.img/withflowers.jpg);
   background-size: 80px 60px;
   background-repeat: no-repeat;
 }
@@ -60,7 +60,7 @@ article {
   position: relative;
   background-color: #B9F73E;
   box-shadow: 10px 10px 5px #677077;
-  background-image: url(./withflowers.jpg);
+  background-image: url(.img/withflowers.jpg);
   background-size: 80px 60px;
   background-repeat: no-repeat;
 }  
