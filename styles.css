@@ -18,14 +18,17 @@ h1 {
   font-size:40px;
   }
 h2 {
-  color: #CD8162; 
+  color: #8B3A3A; 
   font-size:30px;
   }
 p {
   color: #8B2323; 
-  font-size:25px;
+  font-size:30px;
   }
 
+.amo {
+  
+}
 
 .toolbar li{
 display: inline;
