@@ -6,7 +6,6 @@
 body {
 min-width: 600px;
 background-color: #CD9B9B;
-background-image: url(./mountains.png);
 font-family: 'Open Sans', serif;
 color: #272a0f;
 background-position: center;
@@ -64,7 +63,13 @@ article {
   background: url(./img_withflowers.jpg);
   background-size: 80px 60px;
   background-repeat: no-repeat;
-}
+  
+#slide3 .bcg {
+  background-image:url('./flowers.jpg./city.jpg/withflowers.jpg');
+}  
+  
+  
+
 form {
   position: relative;
   background: url(img_withflowers.jpg);
