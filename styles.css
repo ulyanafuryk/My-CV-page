@@ -7,7 +7,7 @@ body {
 min-width: 600px;
 background-color: #CD9B9B;
 font-family: 'Open Sans', serif;
-background: url(./mountains.png) center;
+background: url(./mountains.png);
 color: #272a0f;
 background-position: bottom;
 background-repeat: no-repeat;
@@ -56,7 +56,7 @@ article {
   position: relative;
   background-color: #B9F73E;
   box-shadow: 10px 10px 5px #677077;
-  background: url(img_withflowers.jpg);
+  background: url(./img_withflowers.jpg);
   background-size: 80px 60px;
   background-repeat: no-repeat;
   
