@@ -13,20 +13,11 @@ background-position: bottom;
 background-repeat: no-repeat;
 }
 
-.toolbar {
-  position: absolute;
-  display: inline;
-  color: #272a0f;
-  background-color: #8B3E2F;
-  border: 1px solid;
-  border-color: #8B3E2F;
-  font-size: xx-large;
-  border-radius: 30px;
-  box-shadow: 10px 10px 5px #677077;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 10px;
-  padding: 8em
+nav {
+  max-width: 660px;
+  margin: 0 auto;
+  padding: 20px 0;
+  overflow: hidden;
 }
 
 header {
@@ -49,7 +40,7 @@ margin-top: 30px;
 img {
     position:relative;
     float: right;
-    margin: 4em;
+    margin: 8em;
     width: 500px;
 }
 
