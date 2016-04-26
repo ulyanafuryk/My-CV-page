@@ -13,10 +13,6 @@ background-position: center;
 background-repeat: no-repeat;
 }
 
-@-webkit-keyframes mymove {
-    from {background-color: #CD9B9B;}
-    to {background-color: #cc99ff;} 
- 
 nav {
   max-width: 660px;
   margin: 0 auto;
