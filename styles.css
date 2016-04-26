@@ -41,12 +41,13 @@ background-size: 80px 60px;
   padding: 10 px, 20 px;
 }
 
-img {position:fixed;
+img {
+  position: static;
 }
 
 div {
   position: relative;
-  padding: 40px 40px;
+  padding: 30px 30px;
   background-color: #fe777d;
   background: linear-gradient(wite #fe777d);
   width: 300px;
