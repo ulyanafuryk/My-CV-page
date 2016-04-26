@@ -65,7 +65,7 @@ div {
   background-image: linear-gradient(to top left, white, lightblue);
 }
 article {
-  position: absolute;
+  position: relative;
   background-color: #B9F73E;
   clear: left;
   box-shadow: 10px 10px 5px #677077;
