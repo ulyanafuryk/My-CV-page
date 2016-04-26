@@ -6,7 +6,6 @@
 body {
 min-width: 600px;
 background-color: #CD9B9B;
-background-image: url(./mountains.png);
 font-family: 'Open Sans', serif;
 color: #272a0f;
 background-position: center;
@@ -102,7 +101,7 @@ footer {
     width: 100%;
 }
 /* Slide 1 */
-#slide-1 .bcg {background-image:url('../img/bcg_slide-1.jpg')}
+#slide-1 .bcg {background-image:url('../img/bcg_city.jpg')}
 
 /* CSS - Slide 2 */
 #slide-2 .bcg {
@@ -113,7 +112,7 @@ footer {
 }
 
 /* CSS - Slide 3 */
-#slide-3 .bcg {background-image:url('../img/bcg_slide-3.jpg')}
+#slide-3 .bcg {background-image:url('../img/bcg_flowers.jpg')}
 
 /* Slide 4 */
 .curtainContainer {
@@ -131,13 +130,13 @@ footer {
     bottom: 30%; left: 0;
     width: 100%; text-align: center;
 }
-#slide-4 .bcg {background-image:url('../img/bcg_slide-4.jpg')}
+#slide-4 .bcg {background-image:url('../img/bcg_withflowers.jpg')}
 
 /* Slide 5 */
 #slide-5 {position: relative;}
-#slide-5 .bcg {background-image:url('../img/bcg_slide-5.jpg')}
+#slide-5 .bcg {background-image:url('../img/bcg_mountais.pnp')}
 #slide-5 .bcg2 {
-    background-image:url('../img/bcg_slide-5b.jpg');
+    background-image:url('../img/bcg_city.jpg');
     position: fixed; bottom: 0; left: 0;
     opacity: 0; z-index: 1
 }
