@@ -11,11 +11,10 @@ background-image: url(./mountains.png);
 color: #272a0f;
 background-position: bottom;
 background-repeat: no-repeat;
-
 }
 
 .toolbar {
-  position: relative;
+  position: absolute;
   display: inline;
   color: #272a0f;
   background-color: #8B3E2F;
@@ -72,7 +71,7 @@ article {
   position: relative;
   background-color: #B9F73E;
   box-shadow: 10px 10px 5px #677077;
-  background-image: url(./withflowers.png);
+  
 }
 footer {
   position: relative;
