@@ -41,7 +41,7 @@ background-size: 80px 60px;
   padding: 10 px, 20 px;
 }
 
-img {position:relative;
+img {position:fixed;
 }
 
 div {
