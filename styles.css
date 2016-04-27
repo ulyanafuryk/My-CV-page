@@ -33,7 +33,7 @@ box-shadow: 10px 10px 5px #677077;
 margin-left: auto;
 margin-right: auto;
 margin-top: 30px;
-background: url(/.img/withflowers.jpg);
+background: url(/.img/.jpg);
 background-size: 80px 60px;
 }
 
@@ -69,11 +69,35 @@ article {
   position: relative;
   margin: auto;
   padding: 0, 0, 20px, 0px;
-  background: url(/.img.withflowers.jpg);
+  background: url(/.img.bloom.jpg);
   background: linear-gradient(wite #fe777d);
   box-shadow: 10px 10px 5px #677077;
   background-size: 80px 60px;
   background-repeat: no-repeat;
+}
+#form {
+  position: absolute;
+  text-align: center;
+  padding-top: 10%;
+  font-size: xx-large;
+  border-radius: 50px;
+  box-shadow: 10px 10px 5px #677077;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+#form input {
+  width: 250px;
+  padding-left: 1%;
+}
+textarea {
+  width: 300px;
+  background-image: url(./img/flowers.jpg)
+}
+#message input {
+  width: 100px;
+  padding-top: 10px;
+}  
 }
 footer {
   position: relative;
