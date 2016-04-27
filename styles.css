@@ -85,10 +85,7 @@ form {
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
-}
-form input {
-  padding-left: 1%;
-  font-family: serif;
+
 }
 textarea {
   width: 700px;
