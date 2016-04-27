@@ -73,11 +73,14 @@ div {
   background-size: 80px 60px;
   background-repeat: no-repeat;
 }
+#trees {
+  background-image: url(./trees.png);
+}
+
 article {
   position: relative;
   margin: auto;
   padding: 0, 0, 20px, 0px;
-  background: url(/.img.bloom.jpg);
   background: linear-gradient(wite #fe777d);
   box-shadow: 10px 10px 5px #677077;
   background-size: 80px 60px;
