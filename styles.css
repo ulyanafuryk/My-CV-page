@@ -89,8 +89,11 @@ form {
 }
 textarea {
   width: 700px;
-  background: url(./img/flowers.jpg);
+  color: wite;
   font-family: serif;
+  background-attachment: scroll;
+  background-image: url(./flowers);
+  background: linear-gradient(wite #fe777d);
 }
 #message input {
   width: 100px;
