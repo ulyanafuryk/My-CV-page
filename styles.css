@@ -15,9 +15,8 @@ background-repeat: no-repeat;
 }
 
 nav {
-  max-width: 660px;
+  max-width: 800px;
   margin: 0 auto;
-  padding: 20px 0;
   overflow: hidden;
   background: url(/.img/flowers.jpg);
   background-size: 80px 60px;
