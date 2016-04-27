@@ -32,8 +32,9 @@ right: 0;
 background-color: #EEE;               
 border: 1px solid;               
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;             
-margin: 1px;               
-padding: 2em;          
+margin: 4px;               
+padding: 10em;
+position: left;
 }
 
 header {
