@@ -23,6 +23,15 @@ nav {
   background-size: 80px 60px;
   background-repeat: no-repeat;
 }
+.toolbar li {                
+display: inline;               
+background-color: #EEE;               
+border: 1px solid;               
+border-color: #F3F3F3 #BBB #BBB #F3F3F3;             
+margin: 2px;               
+padding: .5em;          
+}
+
 
 header {
 position: relative;
