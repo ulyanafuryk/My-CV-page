@@ -11,19 +11,17 @@ font-family: "Open Sans", serif;
 color: #272a0f;
 background-image: url(meeting.png);
 background-position: inherit;
+background-repeat: no-repeat;
 }
 
 nav {
-  padding: 20px 20px;
+  padding: 40px 40px;
   background: #e3e5ee;
   width: 200px
-  font-family: "Open Sans", serif;
-  font-size: medium;
-  border-radius: 10px;
+  border-radius: 25px;
   margin-left: auto;
   margin-right: auto
-  margin-top: 50px;
-  background: radial-gradient (50% 50% 70% 70%, #477f88, #e3e5ee);
+  margin-top: 100px;
  }
 
 header {
