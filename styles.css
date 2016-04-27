@@ -26,10 +26,9 @@ nav {
 .toolbar li {                
 display: inline;               
 font-size: 15px;
-font-weight: 200;
+font-weight: 400;
 top: 30px;
 right: 0;
-height: 10px;
 background-color: #EEE;               
 border: 1px solid;               
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;             
