@@ -75,7 +75,7 @@ article {
   background-size: 80px 60px;
   background-repeat: no-repeat;
 }
-#form {
+form {
   position: absolute;
   text-align: center;
   padding-top: 10%;
@@ -86,19 +86,21 @@ article {
   margin-right: auto;
   margin-top: 30px;
 }
-#form input {
+form input {
   width: 250px;
   padding-left: 1%;
+  font-family: serif;
 }
 textarea {
   width: 300px;
-  background-image: url(./img/flowers.jpg)
+  background-image: url(./img/flowers.jpg);
+  font-family: serif;
 }
 #message input {
   width: 100px;
   padding-top: 10px;
 }  
-}
+
 footer {
   position: relative;
   bottom: 0;
