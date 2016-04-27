@@ -9,7 +9,7 @@ max-width: 1200px;
 background-color: #CD9B9B;
 font-family: 'Open Sans', serif;
 color: #272a0f;
-background-image: url(wood.png);
+background-image: url(meeting.png);
 background-position: inherit;
 background-repeat: no-repeat;
 }
@@ -18,7 +18,7 @@ nav {
   max-width: 800px;
   margin: 0 auto;
   overflow: hidden;
-  background: url(/.img/flowers.jpg);
+  background-image: url(flowers.jpg);
   background-size: 80px 60px;
   background-repeat: no-repeat;
 }
