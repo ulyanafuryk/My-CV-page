@@ -25,14 +25,17 @@ nav {
 }
 .toolbar li {                
 display: inline;               
-max-width: 660px;
+font-size: 15px;
+font-weight: 200;
+top: 30px;
+right: 0;
+height: 10px;
 background-color: #EEE;               
 border: 1px solid;               
 border-color: #F3F3F3 #BBB #BBB #F3F3F3;             
 margin: 4px;               
 padding: .8em;          
 }
-
 
 header {
 position: relative;
