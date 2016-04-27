@@ -15,13 +15,13 @@ background-repeat: no-repeat;
 }
 
 nav {
+  
+  background: radial-gradient (50% 50% 70% 70%, #477f88, #e3e5ee)
   max-width: 660px;
   margin: 0 auto;
   padding: 20px 0;
   overflow: hidden;
-  background: url(/.img/withflowers.jpg);
-  background-size: 80px 60px;
-  background-repeat: no-repeat;
+  
 }
 
 header {
