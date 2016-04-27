@@ -52,6 +52,11 @@ background-size: 80px 60px;
 
 img {
   position: relative;
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  margin: 10px;
+  border-radius: 10px;
 }
 p {
   margin: 10px 15px;
@@ -72,9 +77,6 @@ div {
   margin-top: 50px;
   background-size: 80px 60px;
   background-repeat: no-repeat;
-}
-#trees {
-  background-image: url(./trees.png);
 }
 
 article {
