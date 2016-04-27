@@ -87,13 +87,12 @@ form {
   margin-top: 30px;
 }
 form input {
-  width: 250px;
   padding-left: 1%;
   font-family: serif;
 }
 textarea {
-  width: 300px;
-  background-image: url(./img/flowers.jpg);
+  width: 700px;
+  background: url(./img/flowers.jpg);
   font-family: serif;
 }
 #message input {
